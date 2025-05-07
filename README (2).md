@@ -37,10 +37,5 @@ python color_detection.py
 
 Press `ESC` to exit the video window.
 
-## Screenshot
-
-![screenshot](screenshot.png)
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
+## Author
+Disha / https://github.com/dishaaa5
