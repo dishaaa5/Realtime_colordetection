@@ -37,5 +37,12 @@ python color_detection.py
 
 Press `ESC` to exit the video window.
 
+## Demo Video
+
+
+https://github.com/user-attachments/assets/53fda9b8-80fd-4b3b-b880-578fd322f2f4
+
+
+
 ## Author
 Disha / https://github.com/dishaaa5
